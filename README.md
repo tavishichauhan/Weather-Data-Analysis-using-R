@@ -66,3 +66,7 @@ B.Sc. Mathematical Sciences
 PGDAV College, University of Delhi  
 📬 [LinkedIn]www.linkedin.com/in/tavishi-chauhan-98435931a
 
+---
+
+*Note: This project was completed in April 2025 and uploaded to GitHub in July 2025 for portfolio purposes.*
+
